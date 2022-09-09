@@ -12,7 +12,7 @@
 ## Summary of Findings
 
 > From the analysis I carried out, I was able to discover the following:
-* There are more millenials who use thr bike sharing system compared to the other generations
+* There are more millenials who use the bike sharing system compared to the other generations
 + There are also more customers using this service on weekends, compared to subscribers. I assume the customers use it for fun/recreation while subscribers use it for work/to transport to their offices or work places
 + Between 10am and 5pm, there are little or no rides by customers on every day of the week
 + There are more males who use this sharing system compared to the other genders
