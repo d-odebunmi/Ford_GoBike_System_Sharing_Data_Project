@@ -27,4 +27,4 @@
 
 My next presentation is a box and violin plot showing the ride duration in seconds across the different generations. This gives a summary view of ride durations for each generation, and also provides a view on what values ride durations are centered in the most across the five generations. I also present a clustered bar chart showing the number of riders for each gender across the different generations.
 
-Lastly, I presented heatmaps showing usage per hour for the different user types on different weekdays. This reveals Thursdays as the busiest day of the week, with subscribers have peak hours of 8am and 5pm (likely because of work opening and closng hours)
+Lastly, I presented heatmaps showing usage per hour for the different user types on different weekdays. This reveals Thursdays as the busiest day of the week, with subscribers have peak hours of 8am and 5pm (likely because of work opening and closing hours)
